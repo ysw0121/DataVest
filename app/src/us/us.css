@@ -1,0 +1,16 @@
+.us-layout {
+    min-height: 100vh;
+  }
+  
+  .us-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+    background: #f0f2f5;
+  }
+  
+  .us-card {
+    width: 100%;
+    max-width: 600px;
+  }

@@ -1,0 +1,10 @@
+.login {
+  display: flex;
+  flex-direction: column; /* 垂直布局，让输入框在不同行上 */
+  align-items: center; /* 水平居中 */
+}
+
+.login input {
+  width: 200px; /* 控制输入框的宽度 */
+  margin-bottom: 10px; /* 增加输入框之间的距离 */
+}

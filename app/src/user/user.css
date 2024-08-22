@@ -1,0 +1,16 @@
+.user-layout {
+    min-height: 100vh;
+  }
+  
+  .user-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+    background: #f0f2f5;
+  }
+  
+  .user-card {
+    width: 100%;
+    max-width: 600px;
+  }
